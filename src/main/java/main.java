@@ -48,19 +48,6 @@ public class main {
 
         }
 
-        for (int i = 0; i < alunos.size();i ++){
-
-            Double media = 0.0;
-
-            System.out.println(alunos.get(i).getNome());
-            System.out.println(alunos.get(i).getRa());
-
-            media = alunos.get(i).getMedia(alunos.get(i).getNota1(),alunos.get(i).getNota2(),alunos.get(i).getNota3(),alunos.get(i).getNota4());
-
-            System.out.println(media);
-
-        }
-
         //Chamo a função getMediaTurma que está na classe turma e guardo o resultado na variavel mediaTurma
         Double mediaTurma = turma.getMediaTurma(alunos);
 

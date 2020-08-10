@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68670d52-0af4-493d-8d00-f7fca05fcf21" name="Default Changelist" comment="" />
+    <list default="true" id="68670d52-0af4-493d-8d00-f7fca05fcf21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fluOcymKNOrYJUWaHWOFFuT6dl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -55,7 +62,7 @@
       <updated>1596804969926</updated>
       <workItem from="1596804973120" duration="2845000" />
       <workItem from="1597095560906" duration="4709000" />
-      <workItem from="1597101274664" duration="20000" />
+      <workItem from="1597101274664" duration="193000" />
     </task>
     <servers />
   </component>
@@ -67,22 +74,22 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="605" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597098337599" />
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1597101312972">
+    <state width="1557" height="4" key="GridCell.Tab.0.bottom" timestamp="1597101606397">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
-    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1597101312972">
+    <state width="1557" height="4" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101606397" />
+    <state width="1557" height="4" key="GridCell.Tab.0.center" timestamp="1597101606396">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
-    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1597101312972">
+    <state width="1557" height="4" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101606396" />
+    <state width="1557" height="4" key="GridCell.Tab.0.left" timestamp="1597101606396">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
-    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1597101312972">
+    <state width="1557" height="4" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101606396" />
+    <state width="1557" height="4" key="GridCell.Tab.0.right" timestamp="1597101606397">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
+    <state width="1557" height="4" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101606397" />
     <state width="1557" height="280" key="GridCell.Tab.1.bottom" timestamp="1597101256241">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
@@ -99,24 +106,13 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state width="1557" height="280" key="GridCell.Tab.1.right/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101256241" />
-    <state x="496" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1597101273864">
+    <state x="496" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1597101588851">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="496" y="260" key="com.intellij.ide.util.TipDialog/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101273864" />
+    <state x="496" y="260" key="com.intellij.ide.util.TipDialog/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101588851" />
     <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1597098868097">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597098868097" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
