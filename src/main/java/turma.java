@@ -15,6 +15,9 @@ public class turma {
             mediaTurma += alunos.get(i).getMedia(alunos.get(i).getNota1(),alunos.get(i).getNota2(),alunos.get(i).getNota3(),alunos.get(i).getNota4());
 
         }
+        
+        mediaTurma = mediaTurma / alunos.size();
+        
         return mediaTurma;
     }
 
