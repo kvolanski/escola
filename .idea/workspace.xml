@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68670d52-0af4-493d-8d00-f7fca05fcf21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fluOcymKNOrYJUWaHWOFFuT6dl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="escola" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68670d52-0af4-493d-8d00-f7fca05fcf21" name="Default Changelist" comment="" />
+      <created>1596804969926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596804969926</updated>
+      <workItem from="1596804973120" duration="2845000" />
+      <workItem from="1597095560906" duration="4709000" />
+      <workItem from="1597101274664" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1597098337599">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="605" y="120" key="#com.intellij.ide.util.MemberChooser/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597098337599" />
+    <state width="1557" height="2" key="GridCell.Tab.0.bottom" timestamp="1597101312972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="2" key="GridCell.Tab.0.bottom/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
+    <state width="1557" height="2" key="GridCell.Tab.0.center" timestamp="1597101312972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="2" key="GridCell.Tab.0.center/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
+    <state width="1557" height="2" key="GridCell.Tab.0.left" timestamp="1597101312972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="2" key="GridCell.Tab.0.left/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
+    <state width="1557" height="2" key="GridCell.Tab.0.right" timestamp="1597101312972">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="2" key="GridCell.Tab.0.right/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101312972" />
+    <state width="1557" height="280" key="GridCell.Tab.1.bottom" timestamp="1597101256241">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.bottom/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101256241" />
+    <state width="1557" height="280" key="GridCell.Tab.1.center" timestamp="1597101256241">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.center/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101256241" />
+    <state width="1557" height="280" key="GridCell.Tab.1.left" timestamp="1597101256241">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.left/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101256241" />
+    <state width="1557" height="280" key="GridCell.Tab.1.right" timestamp="1597101256241">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state width="1557" height="280" key="GridCell.Tab.1.right/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101256241" />
+    <state x="496" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1597101273864">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="496" y="260" key="com.intellij.ide.util.TipDialog/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597101273864" />
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1597098868097">
+      <screen x="0" y="0" width="1600" height="870" />
+    </state>
+    <state x="463" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1600.870/1600.0.1600.870@0.0.1600.870" timestamp="1597098868097" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
